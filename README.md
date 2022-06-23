@@ -21,7 +21,7 @@
 
 ### Glad to see you here!
 
-Hi, I’m Luiz Gustavo, a 22 years old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.
+Hi, I’m Luiz Gustavo, a 22-years-old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.
 
 ## Languages and Tools:
 
