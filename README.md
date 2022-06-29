@@ -1,4 +1,4 @@
-## Hey there, welcome to my profile!
+## Olá, bem-vindo ao meu perfil! (*Hey there, welcome to my profile!*)
 
 <a href="https://www.facebook.com/luizgununes" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -16,11 +16,13 @@
   <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 
-### Glad to see you here!
+### Feliz em te ver!  (*Glad to see you here!*)
 
-Hi, I’m Luiz Gustavo, a 22-years-old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.
+Oi, eu sou o Luiz Gustavo, um desenvolvedor full-stack brasileiro de 22 anos que ama front-end e design. Estudante de desenvolvimento desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor front-end na Amplifique.me.
 
-## Languages and Tools:
+*Hi, I’m Luiz Gustavo, a 22-years-old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.*
+
+## Linguagens e Ferramentas (*Languages and Tools*)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -61,12 +63,12 @@ Hi, I’m Luiz Gustavo, a 22-years-old brazilian full-stack developer who loves 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## GitHub Stats  
+## Estatísticas do GitHub (*GitHub Stats*)
 
 <table style="width: auto">
   <tr>
