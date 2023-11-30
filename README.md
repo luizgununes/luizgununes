@@ -1,20 +1,10 @@
 ## Olá, bem-vindo ao meu perfil! (*Hey there, welcome to my profile!*)
 
-<a href="https://www.facebook.com/luizgununes" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/luizgununes" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://twitter.com/luizgununes" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/luizgununes" target="_blank" style="text-decoration: none !importan;t">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://codepen.com/luizgununes" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
+[<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/luizgununes)
+[<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/luizgununes)
+[<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/luizgununes)
+[<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/luizgununes)
+[<img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.com/luizgununes)
 
 ### Feliz em te ver!  (*Glad to see you here!*)
 
