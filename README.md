@@ -1,26 +1,29 @@
 ## Olá, bem-vindo ao meu perfil! (*Hey there, welcome to my profile!*)
 
-<a href="https://www.facebook.com/luizgununes" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/luizgununes" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://instagram.com/luizgununes" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/luizgununes" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/luizgununes" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://twitter.com/luizgununes" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/luizgununes" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/luizgununes" target="_blank" style="text-decoration: none !importan;t">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://codepen.com/luizgununes" target="_blank">
-  <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
+<a href="https://codepen.com/luizgununes" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
 
 ### Feliz em te ver!  (*Glad to see you here!*)
 
 Oi, eu sou o Luiz Gustavo, um desenvolvedor full-stack brasileiro de 23 anos que ama front-end e design. Estudante de desenvolvimento desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor front-end na Amplifique.me.
 
 *Hi, I’m Luiz Gustavo, a 23-years-old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.*
+
+## I've somehow helped you? Consider donate! (you don't have to, ok?)
+<a href="https://www.buymeacoffee.com/lgnunes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee!" style="width: 120px !important;" ></a>
 
 ## Linguagens e Ferramentas (*Languages and Tools*)
 
