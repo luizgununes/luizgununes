@@ -79,7 +79,3 @@ Oi, eu sou o Luiz Gustavo, um desenvolvedor full-stack brasileiro de 23 anos que
     </td>
   </tr>
 </table>
-
-<div style="text-align: center">
-  <img src="https://github.com/luizgununes/luizgununes/blob/output/github-contribution-grid-snake.gif" />
-</div>
