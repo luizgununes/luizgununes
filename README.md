@@ -1,11 +1,5 @@
 ## Olá, bem-vindo ao meu perfil! (*Hey there, welcome to my profile!*)
 
-[<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/luizgununes)
-[<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/luizgununes)
-[<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/luizgununes)
-[<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/luizgununes)
-[<img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.com/luizgununes)
-
 ### Feliz em te ver! (*Glad to see you here!*)
 
 Oi, eu sou o Luiz Gustavo, um desenvolvedor full-stack brasileiro de 24 anos que ama front-end e design. Estudante de desenvolvimento desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor front-end na Amplifique.me.
