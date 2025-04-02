@@ -2,9 +2,9 @@
 
 ### Feliz em te ver! (*Glad to see you here!*)
 
-Oi, eu sou o Luiz Gustavo, um desenvolvedor full-stack brasileiro de 24 anos que ama front-end e design. Estudante de desenvolvimento desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor front-end na Amplifique.me.
+Oi, eu sou o Luiz Gustavo, um desenvolvedor full-stack brasileiro de 25 anos que ama front-end e design. Estudante de desenvolvimento desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor front-end na Amplifique.me.
 
-*Hi, I’m Luiz Gustavo, a 24-years-old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.*
+*Hi, I’m Luiz Gustavo, a 25-years-old brazilian full-stack developer who loves front-end and design. Student of development since 2017, I graduated as Software Engineer from the State University of Ponta Grossa (UEPG) and I'm currently working as front-end developer at Amplifique.me.*
 
 ## Te ajudei de alguma forma? Você pode retribuir! (mas só se quiser, ok?)
 <a href="https://mepagaumcafe.com.br/luizgununes" target="_blank"><img src="https://mepagaumcafe.com.br/wp-content/uploads/2023/08/Design-sem-nome-2.png" alt="Buy Me A Coffee!" style="width: 120px !important;" ></a>
