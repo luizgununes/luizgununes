@@ -4,4 +4,4 @@
 
 🎓 I studied Software Engineering at UEPG (Universidade Estadual de Ponta Grossa)
 
-🤖 I'm obsessed with automating things, building bots, and browser extensions. Currently learning Swift for macOS.
+🤖 I'm obsessed with automating things, building bots, and browser extensions.
